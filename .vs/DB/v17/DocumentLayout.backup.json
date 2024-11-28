@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boryakinpa\\source\\repos\\DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A679E1D3-DFB5-4AB9-AD0E-A4F5ED78F9A1}|DB\\DB.csproj|c:\\users\\boryakinpa\\source\\repos\\db\\db\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A679E1D3-DFB5-4AB9-AD0E-A4F5ED78F9A1}|DB\\DB.csproj|solutionrelative:db\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A679E1D3-DFB5-4AB9-AD0E-A4F5ED78F9A1}|DB\\DB.csproj|c:\\users\\boryakinpa\\source\\repos\\db\\db\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A679E1D3-DFB5-4AB9-AD0E-A4F5ED78F9A1}|DB\\DB.csproj|solutionrelative:db\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\boryakinpa\\source\\repos\\DB\\DB\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DB\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\boryakinpa\\source\\repos\\DB\\DB\\MainWindow.xaml",
+              "RelativeToolTip": "DB\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T07:27:04.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\boryakinpa\\source\\repos\\DB\\DB\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DB\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\boryakinpa\\source\\repos\\DB\\DB\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DB\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv0UAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:27:01.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

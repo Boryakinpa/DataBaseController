@@ -1,0 +1,3 @@
+C:\Users\boryakinpa\source\repos\DB\DB\bin\Release\net8.0-windows\win-x64\app.publish\DB.pdb
+C:\Users\boryakinpa\source\repos\DB\DB\bin\Release\net8.0-windows\win-x64\app.publish\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\boryakinpa\source\repos\DB\DB\bin\Release\net8.0-windows\win-x64\app.publish\DB.exe
